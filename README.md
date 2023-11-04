@@ -17,5 +17,13 @@ This is an NLP project where we first scrape WhatsApp Revies from the Play store
 ### Flow Chart
 ![Flowchart1](Visualisations/Flowchart.jpg)
 
+### The following Top Positive words generated
+
+![positive](Visualisations/positive%20words.jpg)
+
+### The following Top Negative words generated
+
+![negative](Visualisations/negative%20words.jpg)
+
 
 
