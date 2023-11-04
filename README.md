@@ -15,7 +15,7 @@ This is an NLP project where we first scrape WhatsApp Revies from the Play store
 - Used Gensim library for Topic Modelling using Latent Dirichlet Allocation (LDA).
 
 ### Flow Chart
-
+![Flowchart1](Visualisations/Flowchart.jpg)
 
 
 
